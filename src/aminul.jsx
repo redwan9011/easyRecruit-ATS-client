@@ -3,8 +3,7 @@ import React from 'react';
 const aminul = () => {
     return (
         <div>
-            aminul
-aminul
+            <h3>aminul</h3>
         </div>
     );
 };
